@@ -112,64 +112,9 @@ Other
 
 - If you are updating your Town Of Impostors version, please hop to this section [here](#updating-the-mod).
 
-- Before installing, verify your Among Us version by launching the game and checking the version displayed in the top left of the main menu.
+- Coming Soon
 
-- As of the Among Us v2021.3.31.3s update, **you must sign in to your account and set your player name now** to avoid issues later such as setting your name or typing in the chat in the modded game.
-
-- Download the Mod for your specific game version from the table below or check all releases [here](https://github.com/AJMix/TownOfImpostors/releases). **ENSURE THAT YOUR AMONG US VERSION MATCHES EXACTLY - EVERY DIGIT, LETTER, DOT & ALL.**
-
-- Make a copy of your clean, unmodded game’s root directory `Steam/steamapps/common/Among Us` and rename the copied directory to whatever you want e.g. `Steam/steamapps/common/Among Us Town Of Impostors`. This copied directory is what will be modded. You can get to your root directory by right-clicking Among Us in Steam -> Properties -> Local Files -> Browse. **RECOMMENDED STEP TO KEEP SEPARATE COPIES IN CASE YOUR MODDED GAME BREAKS & TO AVOID AN AUTO-UPDATE BREAKING THE MOD.**
-
-- Extract the contents `TownOfImpostors.zip` into the copied folder you created.
-
-- Ensure the copied directory that is being modded now contains at least the following:
-```
-.
-├── Among Us_Data
-├── BepInEx <---
-├── mono <---
-├── Among Us.exe
-├── baselib.dll
-├── doorstop_config.ini <---
-├── GameAssembly.dll
-├── steam_appid.txt <---
-├── UnityCrashHandler32.exe
-├── UnityPlayer.dll
-└── winhttp.dll <---
-```
-<details>
- <summary>Still unsure? Click this for an image of what it should look like if you have hidden file name extensions</summary>
- <img src="Pics/TownOfImpostersDirectoryNew.png">
- </details>
- 
-- **Make sure to launch the game via the Among Us.exe from this directory**. Please note that the first time launching the game with this mod may take a while - give it one minute before worrying that nothing is appearing.
-
-**Verifying installation success**
-- Launching the game via Among Us.exe
-- In the top-left corner of the main menu, below the Among Us version, you should see _Town Of Impostors vX.X.X Mod by AJMix_ to indicate the mod is running and has been successfully installed.
-
-If you don't see this message or have any other issues, please take a look at the <a href="#troubleshooting">troubleshooting section</a>.
-
-
-**Version Mismatch Checker:**
-- Starting from v1.8.1 onwards, there is now a version mismatch checker that'll make sure that all users in the lobby are using the same game version. If a red message appears on the top right stating **"Warning: Player Version Mismatch"**, then there's a potential that someone in the lobby is not using the correct version.
-- Sometimes this warning message can appear when something strange occurs, even if all users in the lobby are using the same version. If you're 100% sure all users in the lobby are using the same mod version, simply have players rejoin the lobby.
-
-_Before raising an issue, please double check that you have accurately followed the installation instructions and you are not using any mod manager or other mods._
-
-_Starting from v1.5.0 onwards, there is a new reset custom settings button in the lobby. Please use it if your settings are bugged. Settings can bug when you update from version to version, it's best practice to reset settings._
-
-_Starting from v1.6.0 onwards, this mod should now be compatible with Mod Manager by MatuxGG. Please note that using the Mod Manager to install the mod still does not guarantee that the mod will work as intended._
-
-### Saving and Loading
-Starting from v1.8.1, you can now save and load your settings. This is to help lower the issue of settings completely messing up between versions. You should find a new `TownOfImpostorsSettings.txt` in the Among Us folder where the mod is installed. This can also be passed onto others so they can play with your settings!
-
-From v1.8.6 onwards, there are now 5 **Save & Load** slots. You can use these to save multiple settings. You will be able to find them as `TownOfImpostorsSettings_1.txt`, `TownOfImpostorsSettings_2.txt` etc. inside of the `TownOfImpostors_Data` folder. Please launch the game or create the folder yourself if you don't see it. These settings can be passed onto others. If you were using the previous `TownOfImpostorsSettings.txt` before, please move this into the folder and rename it to `TownOfImpostorsSettings_1.txt`.
-
-### Uninstalling the Mod
-- If you copied the Among Us folder as instructed by the Installation Steps, simply delete the copied folder.
-- If you did not, and you unzipped the mod into your main Among Us folder, then you have to delete the following folders & files:
-  - **BepInEx** folder, **mono** folder, **doorstop_config.ini**, **winhttp.dll**
+If you have any issues, please take a look at the <a href="#troubleshooting">troubleshooting section</a>.
  
 <h2>Releases and Compatibility</h2>
 
