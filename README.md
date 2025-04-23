@@ -96,8 +96,6 @@ Other
   * [FAQ](#faq)
   * [Troubleshooting](#troubleshooting)
     * [Known Issues](#known-issues)
-  * [Contact & Donations](#contact--donations)
-  * [Credits](#credits)
   * [License](#license)
   * [Installation](#installation)
     * [Releases and Compatibility](#releases-and-compatibility)
@@ -107,8 +105,7 @@ Other
   * [Custom Hats](#customhats)
     * [Modifiers](#modifiers)
     * [Advanced Modifiers](#advanced-modifiers)
-  * [Custom Colors](#customcolors)
-  * [Streamer Mode](#streamermode)
+  
 ---
 
 <h1 id="installation">Installation</h1>
@@ -634,39 +631,6 @@ Please join the discord to find more custom hats from the community, as well as 
 
 ---
 
-<h1 id="customcolors">Custom Colors</h1>
-
-**From v1.8.6 onwards**, you will be able to add your own custom colors.
-
-Add your custom colors to the file `TownOfImpostors_CustomColors.txt` which can be found in the `TownOfImpostors_Data` folder. Please launch the game and create a lobby once if you don't see the folder or file, or manually create them yourselves. 
-
-Follow this example to add a color:
-> `255,255,255,255 220,220,220,255 Pure_White PWH`
-
-Each part of the entry stands for this:
-> `MainColor` `ShadingColor` `LongName` `ShortName`
-> 
-> For the colors the format is: R,G,B,A (values between 0-255)
-> 
-> Separate each part with a space, use `_` to represent spaces in the long name.
-
-**In multiplayer, everyone must have the same `TownOfImpostors_CustomColors.txt` to see and use the same custom colors!**
-
----
-
-<h1 id="streamermode">Streamer Mode</h1>
-
-**From v1.7.1 onwards**, there is a new streamer mode that can be toggled on.
-
-This makes it easier for streamers as they won't have to manually hide the code anymore on stream, it will be hidden automatically.
-
-### How do I get the room code?
-When you create a room, the room code will be copied to your clipboard. Simply paste it somewhere and pass it onto others.
-
-If you accidentally copied something else before pasting the room code somewhere, you can get your copy/clipboard history by using `Windows Key + V`. Or you can just make another room.
-
----
-
 # Roles, Abilities, Modifiers & Custom Options
 
 ### Keybindings
@@ -1087,22 +1051,13 @@ This means that the role selection will try to put 3 sheriffs into the pool, at 
 # FAQ
  
 ### Can you play Proximity Chat (Crewlink) with it?
-Yes, Crewlink supports Among Us Modifications
+Yes, Better-Crewlink supports Among Us Modifications
 
 ### Can this mod work with other mods?
 I cannot guarantee that this mod will work with other mods. There will likely be conflicts. You will have to test yourself. 
 
 ### Do my friends need to install the mod to play it together?
 Yes. Every player in the lobby must have the mod installed. Please don't use and play mods in unorganised public lobbies.
-
-### Can you get banned for playing on public servers?
-At the current state of the game there is no perma ban system, though this may change depending on the stance of the Among Us developers. The mod is designed in a way that it does not send prohibited server requests. In a public lobby with randoms, with only you having the mod installed, you would either be kicked for strange behaviour or have a desync between you and other users that do not have the same mods, or both. In short, as long as this mod is played among friends in your own private lobby, you're safe.
-
-If you are really worried, I recommend checking out <a href="https://github.com/Impostor/Impostor">Impostor</a> to start your own custom, private server. (You may have to disable their AntiCheat implementation for it to work with mods like this).
-**Still, a disclaimer that you use this mod at your own risk and I am not responsible for any account suspensions that may occur from the use of this mod.**
-
-### How can I join servers of a custom region?
-This functionality has been removed from 1.6.0 onwards. Please look into using <a href="https://github.com/MoltenMods/Unify">Unify</a>
 
 ### Can this mod work with controllers?
 This mod was not made to be compatible with controllers in mind; it was intended to be played with keyboard and mouse.
@@ -1130,39 +1085,6 @@ For any bugs, take a quick check if your bug has already been listed under the b
 - When updating from version to version, settings can bug and cause unintended effects. This is due to how new custom settings are being added in each update. If you are getting strange bugs occurring with the settings, try manually settings everything again (to overwrite the saved settings on your computer) by manually toggling options on and off, setting timers and settings counts. You can also do a hard reset by running vanilla among us and creating a lobby, then reopening among us with this mod. In v1.5.0 onwards, there is a new reset settings button the host can make use of to do a hard reset on all custom settings to reset everything to default values
 
 - Disconnections in the middle of the game can cause bugs to occur, and the only way to fix them would be starting a new game or restarting the game. This mod was made with the assumption that no one would disconnect as disconnections are a whole other edgecase to fix. Future updates will hopefully fix this, but for now, just start another game or restart the client if a disconnection causes your game to bug
-
----
-
-# Contact & Donations
-
-### Contact:
-- **Discord:** AJMix#1111
-- **Email:** <a href="mailto:ajmixdev@gmail.com">ajmixdev@gmail.com</a>
-
-### Updates:
-- **Twitter:** <a href="https://twitter.com/itsAJMix">itsAJMix</a>
-- **Youtube:** <a href="https://www.youtube.com/user/AJMixChannel">AJMix</a>
-- **Discord Server: https://discord.gg/xpsKVpUf4T**
-
-### Donations:
-<a href="https://www.paypal.com/donate?hosted_button_id=M2FL98EWXTQDE"><img src ="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal button" ></img></a>
-
-Buy me a coffee at [Ko-fi](https://ko-fi.com/ajmix)
-
-All donations are appreciated and will go towards the development of mods.
-
----
-
-# Credits
-
-**_Please let me know if you'd like me to attach a social media next to your name, change your name or remove your name from the list._**
-
-### Big thanks to the following Donator(s):
-**Bernie Choy**
-
-### Big thanks to the following for supporting in the development of the mod:
-- **Darkbrussel** for the Artwork
-- **JonyKasual** for thorough testing and general support
 
 ---
 
