@@ -1,8 +1,9 @@
 # Town Of Impostors
 
-<a href="https://discord.gg/xpsKVpUf4T"><p align="center"><img src="https://user-images.githubusercontent.com/78827892/114307643-77e45c00-9ad8-11eb-81a5-44e985616cc5.png" width="600"></a>
+<a href=""><p align="center"><img src="https://user-images.githubusercontent.com/78827892/114307643-77e45c00-9ad8-11eb-81a5-44e985616cc5.png" width="600"></a>
 
-<p align="center">We now will have a discord server where you can find games soon!
+
+<p align="center">We will have a discord server where you can find games soon!
 
 <p align="center">Town Of Impostors: Reborn is a mod for Among Us - <b>PC/Windows (Steam)</b>. This mod aims to add new roles, modifiers & abilities to enhance gameplay, while also providing a full range of options to allow for customising and playing games your way.</p>
 
