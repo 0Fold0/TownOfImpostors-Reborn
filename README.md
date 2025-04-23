@@ -12,9 +12,10 @@
 <p align="center">
 <img src="Pics/TOI-Animated.gif" width="360">
 </p>
+---
 
+Crewmate Roles
 <p align="center">
-
 <img src="Pics/TownOfImpostors-Sheriff.png" width="270">
 <img src="Pics/TownOfImpostors-Doctor.png" width="270">
 <img src="Pics/TownOfImpostors-Agent.png" width="270">
