@@ -1,7 +1,6 @@
 # Town Of Impostors
 
-<a href="https://discord.gg/xpsKVpUf4T"><p align="center"><img src="https://user-images.githubusercontent.com/78827892/114307643-77e45c00-9ad8-11eb-81a5-44e985616cc5.png" width="300"></a>
-<a href="https://twitter.com/itsAJMix"><img src="https://user-images.githubusercontent.com/78827892/114704193-3a711000-9d1e-11eb-843e-c25ea9cb7488.png" width="300"></p></a>
+<a href="https://discord.gg/xpsKVpUf4T"><p align="center"><img src="https://user-images.githubusercontent.com/78827892/114307643-77e45c00-9ad8-11eb-81a5-44e985616cc5.png" width="600"></a>
 
 <p align="center">We now will have a discord server where you can find games soon!
 
