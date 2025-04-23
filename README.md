@@ -35,7 +35,7 @@ Neutral Roles
 <p align="center">
 <img src="Pics/TownOfImpostors-Arsonist.png" width="270">
 <img src="Pics/TownOfImpostors-Jester.png" width="270">
-<img src="Pics/TownOfImpostors-Impostor2.png" width="270">
+<img src="Pics/TownOfImpostors-Devourer.png" width="270">
 </p>
 
 ---
