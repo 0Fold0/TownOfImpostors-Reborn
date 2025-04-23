@@ -1,4 +1,4 @@
-# Town Of Impostors
+# Town Of Impostors: Reborn
 
 <a href=""><p align="center"><img src="https://user-images.githubusercontent.com/78827892/114307643-77e45c00-9ad8-11eb-81a5-44e985616cc5.png" width="600"></a>
 
