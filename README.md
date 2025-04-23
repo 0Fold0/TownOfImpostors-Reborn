@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"> **Crewmate Roles**
+<p align="center"> # Crewmate Roles
 <p align="center">
 <img src="Pics/TownOfImpostors-Sheriff.png" width="270">
 <img src="Pics/TownOfImpostors-Doctor.png" width="270">
@@ -30,14 +30,14 @@
 
 ---
 
-<p align="center"> **Neutral Roles**
+<p align="center"> # Neutral Roles
 <p align="center">
 <img src="Pics/TownOfImpostors-Arsonist.png" width="270">
 <img src="Pics/TownOfImpostors-Jester.png" width="270">
 
 ---
 
-<p align="center"> **Modifiers**
+<p align="center"> # Modifiers
 <p align="center">
 <img src="Pics/TownOfImpostors-LoversModifier.png" width="270">
  <img src="Pics/TownOfImpostors-Giant.png" width="270">
@@ -47,7 +47,7 @@
 
 ---
 
-<p align="center"> **Impostor Roles**
+<p align="center"> # Impostor Roles
 <p align="center">
 <img src="Pics/TownOfImpostors-Dragger.png" width="270">
 <img src="Pics/TownOfImpostors-Morphling.png" width="270">
