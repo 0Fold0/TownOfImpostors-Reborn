@@ -14,14 +14,12 @@
 </p>
 
 <p align="center">
-<img src="Pics/TownOfImpostors-Impostor2.png" width="270">
+
 <img src="Pics/TownOfImpostors-Sheriff.png" width="270">
 <img src="Pics/TownOfImpostors-Doctor.png" width="270">
-<img src="Pics/TownOfImpostors-Jester.png" width="270">
 <img src="Pics/TownOfImpostors-Agent.png" width="270">
 <img src="Pics/TownOfImpostors-Detective.png" width="270">
 <img src="Pics/TownOfImpostors-Plumber.png" width="270">
-<img src="Pics/TownOfImpostors-Arsonist.png" width="270">
 <img src="Pics/TownOfImpostors-Informant.png" width="270">
 <img src="Pics/TownOfImpostors-Trickster.png" width="270">
 <img src="Pics/TownOfImpostors-Operative.png" width="270">
@@ -30,6 +28,14 @@
 
 ---
 
+Neutral Roles
+<p align="center">
+<img src="Pics/TownOfImpostors-Arsonist.png" width="270">
+<img src="Pics/TownOfImpostors-Jester.png" width="270">
+
+---
+
+Modifiers
 <p align="center">
 <img src="Pics/TownOfImpostors-LoversModifier.png" width="270">
  <img src="Pics/TownOfImpostors-Giant.png" width="270">
@@ -39,6 +45,7 @@
 
 ---
 
+Impostor Roles
 <p align="center">
 <img src="Pics/TownOfImpostors-Dragger.png" width="270">
 <img src="Pics/TownOfImpostors-Morphling.png" width="270">
