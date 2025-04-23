@@ -34,7 +34,7 @@
 <p align="center">
 <img src="Pics/TownOfImpostors-Arsonist.png" width="270">
 <img src="Pics/TownOfImpostors-Jester.png" width="270">
-<ung src="" width = "270">
+<ung src="Pics/TownOfImpostors-Impostor2.png" width = "270">
 
 ---
 
