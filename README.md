@@ -62,18 +62,8 @@
 
 ---
 
-Table of Contents
-=================
-  * [Installation](#installation)
-    * [Releases and Compatibility](#releases-and-compatibility)
-    * [Saving and Loading Settings](#saving-and-loading)
-    * [Uninstalling](#uninstalling-the-mod)
-    * [Updating](#updating-the-mod)
-  * [Custom Hats](#customhats)
-    * [Modifiers](#modifiers)
-    * [Advanced Modifiers](#advanced-modifiers)
-  * [Custom Colors](#customcolors)
-  * [Streamer Mode](#streamermode)
+Roles & Modifiers
+======================
   * [Roles, Abilities, Modifiers & Custom Options](#roles-abilities-modifiers--custom-options)
     * [Crewmate Team](#crewmate-team)
       * [Sheriff](#sheriff)
@@ -95,13 +85,25 @@ Table of Contents
       * [Tiny](#tiny)
       * [Nightowl](#nightowl)
     * [How Role Assignment Works](#how-does-role-assignment-work)
+
+Other
+========
   * [FAQ](#faq)
   * [Troubleshooting](#troubleshooting)
     * [Known Issues](#known-issues)
   * [Contact & Donations](#contact--donations)
   * [Credits](#credits)
   * [License](#license)
-
+  * [Installation](#installation)
+    * [Releases and Compatibility](#releases-and-compatibility)
+    * [Saving and Loading Settings](#saving-and-loading)
+    * [Uninstalling](#uninstalling-the-mod)
+    * [Updating](#updating-the-mod)
+  * [Custom Hats](#customhats)
+    * [Modifiers](#modifiers)
+    * [Advanced Modifiers](#advanced-modifiers)
+  * [Custom Colors](#customcolors)
+  * [Streamer Mode](#streamermode)
 ---
 
 <h1 id="installation">Installation</h1>
@@ -176,8 +178,8 @@ From v1.8.6 onwards, there are now 5 **Save & Load** slots. You can use these to
     <th>Link</th>
   </tr>
  <tr>
-    <td>v2025.3.25s</td>
-    <td>v0.0.1</td>
+    <td>v2025.3.25e (v16.0.2)</td>
+    <td>v0.0.1b</td>
     <td><a href="">Download</></td></td>
    </tr>
 </table>
