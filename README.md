@@ -1,6 +1,6 @@
 # Town Of Impostors: Reborn
 
-<p align="center"> We will have a discord server where you can find games soon!
+<p align="center"> We will have a discord server where you can find games to play with other people, chat, talk about the mod, and more soon!
 
 ---
 
