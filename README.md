@@ -100,11 +100,7 @@ Other
   * [Installation](#installation)
     * [Releases and Compatibility](#releases-and-compatibility)
     * [Saving and Loading Settings](#saving-and-loading)
-    * [Uninstalling](#uninstalling-the-mod)
     * [Updating](#updating-the-mod)
-  * [Custom Hats](#customhats)
-    * [Modifiers](#modifiers)
-    * [Advanced Modifiers](#advanced-modifiers)
   
 ---
 
@@ -133,38 +129,6 @@ If you have any issues, please take a look at the <a href="#troubleshooting">tro
  
 ### Updating the Mod
 - Coming Soon
-
----
-
-### Modifiers
-*All hat modifiers are **case sensitive**!*
-
-
-`_back`
-> If you want your hat to be behind the crewmate (i.e. wings). 
-
-`_bounce`
-> If you want it to bounce while the crewmate walks.
-
-`_anycolor`
-> **From v1.8.2 onwards**, you'll be able to also add this as an additional modifier to have your hat match the colour of your crewmate. You'll need to use **Red** _(Hex: FF0000)_ for the base colour, and **Blue** _(Hex: 0000FF)_ for the shading. See example of how this is done here: 
-
-![ExampleByDark](https://user-images.githubusercontent.com/78827892/114481635-dacf1380-9bfc-11eb-8032-e839df7240ec.PNG)  
-
-### Advanced Modifiers
-*All hat modifiers are **case sensitive**!*
-
-
-`_0.0f_0.0f`  
-> **From v1.8.6 onwards**, you can now add **X** and **Y** offsets to the name to position the hat more accurately in the menu i.e. `Simple-Hat_AJMix_-0.5f_+0.3f`. You need to specify both an **X** and a **Y** offset. Placing a **+** or **-** in front will indicate whether it should be positive or negative. _Placing no symbols will default it to positive._ The offsets must follow the exact example as shown, with a decimal number followed by an _"**f**"_.
-
-## Want to add your hat as part of the mod so everyone can use it?
-* Simply follow the same steps above to create a Custom Hat, please join the discord server and post your hat in the custom hat channel there so it can be ready to add in the next release. Please also follow the naming convention so I know the hat name, credits and whether you'd like it to be added to the **back** of the crewmate and whether you'd like it to **bounce**.
-* The Hat Name and Credits will be grabbed from the file name, as long as you have followed the naming convention. When someone wears your hat, credits will appear underneath the mod credits! (i.e. `AJ Scarf by AJMix`, `Dark Scarf by Darkbrussel`)
-* I'll try my best to get your Custom Hat into the next release of Town Of Impostors!
-
-## Where can I download more custom hats from the community?
-Please join the discord to find more custom hats from the community, as well as download links!
 
 ---
 
