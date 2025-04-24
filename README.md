@@ -126,6 +126,8 @@ If you have any issues, please take a look at the <a href="#troubleshooting">tro
     <td><a href="">Download</></td></td>
    </tr>
 </table>
+
+---
  
 ### Updating the Mod
 - Coming Soon
